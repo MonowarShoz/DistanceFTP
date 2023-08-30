@@ -1,6 +1,6 @@
 # flcamftp
 
-A new Flutter project.
+A  Flutter project that can take picture using camera and send it to the FTP server
 
 ## Getting Started
 
